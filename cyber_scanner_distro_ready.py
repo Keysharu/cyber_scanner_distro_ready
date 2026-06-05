@@ -37,7 +37,7 @@ def mostrar_banner_marca():
     print("      > ^ <")
     print(f"{CYAN}==================================================================")
     print(f"{YELLOW}          ⚡ EL TALLER DE LA GATITA TECH // HARDWARE AUDIT ⚡      ")
-    print(f"               [ Operadora: Raquel D. Torres ]            ")
+    print(f"                       [ Operadora: Keysharu ]            ")
     print(f"{CYAN}=================================================================={RESET}")
     print(f"Fecha del escaneo táctico: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     print(
